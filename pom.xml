@@ -12,6 +12,8 @@
         <module>cloud-discovery-eureka</module>
         <module>cloud-config</module>
         <module>cloud-config-client</module>
+        <module>cloud-service1</module>
+        <module>cloud-service2</module>
     </modules>
 
     <parent>
