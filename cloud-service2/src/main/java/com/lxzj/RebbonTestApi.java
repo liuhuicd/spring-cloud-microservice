@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = "/ribbon")
 public class RebbonTestApi {
 
-    @RequestMapping(value = "name", method = RequestMethod.GET)
+    @RequestMapping(value = "/name", method = RequestMethod.GET)
     public String getMyBlogNameApi() {
         return "该服务端口号：8072";
     }

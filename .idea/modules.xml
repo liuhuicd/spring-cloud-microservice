@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-gateway-zuul/cloud-api-gateway-zuul.iml" filepath="$PROJECT_DIR$/cloud-api-gateway-zuul/cloud-api-gateway-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config/cloud-config.iml" filepath="$PROJECT_DIR$/cloud-config/cloud-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-repo/cloud-config-repo.iml" filepath="$PROJECT_DIR$/cloud-config-repo/cloud-config-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-discovery-eureka/cloud-discovery-eureka.iml" filepath="$PROJECT_DIR$/cloud-discovery-eureka/cloud-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-feign-client/cloud-feign-client.iml" filepath="$PROJECT_DIR$/cloud-feign-client/cloud-feign-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-ribbon-client/cloud-ribbon-client.iml" filepath="$PROJECT_DIR$/cloud-ribbon-client/cloud-ribbon-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-service1/cloud-service1.iml" filepath="$PROJECT_DIR$/cloud-service1/cloud-service1.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-service2/cloud-service2.iml" filepath="$PROJECT_DIR$/cloud-service2/cloud-service2.iml" />
