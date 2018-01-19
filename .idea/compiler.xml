@@ -10,6 +10,7 @@
         <module name="cloud-config-client" />
         <module name="cloud-config-repo" />
         <module name="cloud-discovery-eureka" />
+        <module name="cloud-ribbon-client" />
         <module name="cloud-service1" />
         <module name="cloud-service2" />
       </profile>
@@ -19,6 +20,7 @@
       <module name="cloud-config-client" target="1.6" />
       <module name="cloud-config-repo" target="1.6" />
       <module name="cloud-discovery-eureka" target="1.6" />
+      <module name="cloud-ribbon-client" target="1.6" />
       <module name="cloud-service1" target="1.6" />
       <module name="cloud-service2" target="1.6" />
       <module name="spring-cloud-microservice" target="1.6" />

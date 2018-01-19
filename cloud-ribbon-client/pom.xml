@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-service2</artifactId>
+    <artifactId>cloud-ribbon-client</artifactId>
 
     <dependencies>
         <dependency>
@@ -34,5 +34,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
